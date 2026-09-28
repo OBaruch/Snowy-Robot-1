@@ -16,7 +16,7 @@
 | 8 | Add `.gitignore` and `AGENTS.md` | R5.2 | Done |
 | 9 | Check hashes, links and that no credentials appear in the docs | Acceptance | Done |
 | 10 | Commit on a feature branch and open a pull request against `master` | — | Done |
-| 11 | Create and push annotated tags `archive/patch-1..3`, then delete the remote `patch-*` branches | R4 | Done |
+| 11 | Create and push annotated tags `archive/patch-1..3`, then delete the remote `patch-*` branches | R4 | Pending, owner action (commands in [version-history.md](../version-history.md#branch-cleanup)) |
 
 ## Decisions
 
