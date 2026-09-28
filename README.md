@@ -121,4 +121,4 @@ The repository has no build configuration, so these steps are **inferred**, not 
 
 ## Historical Note
 
-This repository was reorganized and documented later to make it easier to read and to keep the historical context of the original project. The original source code is unchanged. Versions that existed only on unmerged branches were brought into `src/` so that they stay visible. Their exact commits are also kept as `archive/*` git tags.
+This repository was reorganized and documented later to make it easier to read and to keep the historical context of the original project. The original source code is unchanged. Versions that existed only on unmerged branches were brought into `src/` so that they stay visible. Their exact commits are also kept as `archive/*` git tags when the old branches are closed (see [version history](docs/version-history.md#branch-cleanup)).
