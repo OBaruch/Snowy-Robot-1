@@ -1,0 +1,17 @@
+# Arduino / PlatformIO build output (none is committed; kept out if the sketches are compiled locally)
+build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Local secrets, if Wi-Fi credentials are ever moved out of the sketches
+secrets.h
+arduino_secrets.h
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
